@@ -28,6 +28,7 @@
 |날짜|사이트|문제 분류|완료|블로그|
 |:-|:-:|:-|:-:|:-:|
 |`21/12/12`|[`BOJ`](https://www.acmicpc.net)|[`입출력과 사칙연산`](https://github.com/Alpagorithm/Alpagorithm-Heerucan/tree/main/BOJ/입출력과%20사칙연산)|👊🏻|-|
+|`21/12/13`|[`BOJ`](https://www.acmicpc.net)|`if문과 for문`|👊🏻|-|
 
 
 
