@@ -7,13 +7,13 @@ x, y = 1, 1
 
 for i in range(len(direction)):
     if direction[i] == 'R':
-        if x == n:
+        if y == n:
             y += 0
         else:
             y += 1
 
     elif direction[i] == 'L':
-        if x == 1:
+        if y == 1:
             y += 0
         else:
             y -= 1
@@ -25,9 +25,10 @@ for i in range(len(direction)):
             x -= 1
 
     elif direction[i] == 'D':
-        if y == n:
+        if x == n:
             x += 0
         else:
             x += 1
+
 
 print(x, y)
