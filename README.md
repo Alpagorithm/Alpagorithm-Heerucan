@@ -1,6 +1,6 @@
 # `😭 취업을 하려면 코딩 테스트를 통과해야 된다. 😭`
 
-##### [This is my solved.ac . . . . . .](https://solved.ac/profile/jwyandkrh)
+##### [This is my . . . . . .](https://huree-can-do-it.notion.site/Algorithm-05cd43d70a7a4d8d95e7f20d99a39302)
 
 
 ### 알고리즘 데일리 루틴화하기 위해 지켜야 할 규칙 🔥
@@ -19,16 +19,6 @@
 ```
 어려웠던 문제는 풀이를 블로그에 정리한다.
 ```
-
-
-## Problem Solving
-
-##### 단계별로 문제 풀어보기
-
-|날짜|사이트|문제 분류|완료|블로그|
-|:-|:-:|:-|:-:|:-:|
-|`21/12/12`|[`BOJ`](https://www.acmicpc.net)|[`입출력과 사칙연산`](https://github.com/Alpagorithm/Alpagorithm-Heerucan/tree/main/BOJ/입출력과%20사칙연산)|👊🏻|-|
-|`21/12/13`|[`BOJ`](https://www.acmicpc.net)|`if문과 for문`|👊🏻|-|
 
 
 
