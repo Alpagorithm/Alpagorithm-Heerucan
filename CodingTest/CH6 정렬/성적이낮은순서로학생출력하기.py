@@ -4,7 +4,7 @@
 
 N = int(input())
 student = []
-result = []
+
 for i in range(N):
     student.append(list((input().split())))
 
