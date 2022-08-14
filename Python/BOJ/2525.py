@@ -13,7 +13,7 @@ if (b+c) >= 60:
         b = (b+c - 60)
         if a >= 24:
             a = a - 24
-            # a = 24 - a
+            a = 24 - a
     print(a, b)
 else:
     print(a, b+c)
