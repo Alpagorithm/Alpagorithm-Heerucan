@@ -8,9 +8,9 @@
 import Foundation
 
 func solution(_ A:[Int], _ B:[Int]) -> Int {
-    var totalArr: [Int] = []
+    var sum = 0
     for index in A.indices {
-        totalArr.append(A[index] * B[index])
+        sum += (A[index] * B[index])
     }
-    return totalArr.reduce(0, +)
+    return sum
 }
