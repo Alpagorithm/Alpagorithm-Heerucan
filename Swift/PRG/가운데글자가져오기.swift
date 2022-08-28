@@ -8,17 +8,11 @@
 import Foundation
 
 func solution(_ s:String) -> String {
-    
-    let arr = s.map { $0 }
-    
     // 글자수가 짝수면 가운데 2개
-    if arr.count%2 == 0 {
-        let start = s.index(s.startIndex, offsetBy: arr.count/2-1)
-        let end = s.index(s.startIndex, offsetBy: arr.count/2)
-        return String(s[start...end])
+    if Array(s).count%2 == 0 {
+        return String(Array(s)[(s.count/2)-1...(s.count/2)])
     // 글자수가 홀수면 가운데 1개
     } else {
-        let start = s.index(s.startIndex, offsetBy: arr.count/2)
-        return String(s[start])
+        return String(Array(s)[(s.count/2)])
     }
 }
