@@ -10,11 +10,10 @@ import Foundation
 
 func solution(_ x:Int) -> Bool {
     var result = 0
-    result += (x / 1000) + ((x%1000) / 100) + (((x%1000) % 100) / 10) + (((x%1000) % 100) % 10)
-    
-    if x % result == 0 {
-        return true
-    } else {
-        return false
+    for i in String(x) {
+        guard let num = Int(String(i)) else { break }
+        result += num
     }
+    
+    return x % result == 0 ? true : false
 }
