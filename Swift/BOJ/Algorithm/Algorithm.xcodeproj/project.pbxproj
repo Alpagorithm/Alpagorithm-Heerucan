@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		5B97D84228F41AC600193C8F /* 1463.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1463.swift; sourceTree = "<group>"; };
+		5B97D84428F4E63800193C8F /* 1764.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1764.swift; sourceTree = "<group>"; };
 		5BA08D7C28ED4F14009408A5 /* 1676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1676.swift; sourceTree = "<group>"; };
 		5BEDADB528EC1380007E2A66 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BEDADB828EC1380007E2A66 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 				5BEDADB828EC1380007E2A66 /* main.swift */,
 				5BA08D7C28ED4F14009408A5 /* 1676.swift */,
 				5B97D84228F41AC600193C8F /* 1463.swift */,
+				5B97D84428F4E63800193C8F /* 1764.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
